@@ -1,0 +1,8 @@
+
+// 配置装饰器写法，让vscode不报警告
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "allowJs": true
+    }
+}
